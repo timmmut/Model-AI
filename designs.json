@@ -1,0 +1,115 @@
+{
+  "minimalist": {
+    "name": "Minimalist Style",
+    "description": "Czysty, prosty design z neutralnymi kolorami i maksymalną funkcjonalnością",
+    "wall_color": [0.85, 0.85, 0.85, 1.0],
+    "floor_color": [0.95, 0.95, 0.95, 1.0],
+    "sofa_color": [0.7, 0.7, 0.7, 1.0],
+    "carpet_color": [0.88, 0.88, 0.88, 1.0],
+    "zaslona_color": [0.9, 0.9, 0.9, 1.0],
+    "floorplates_color": [0.92, 0.92, 0.92, 1.0],
+    "floorunder_color": [0.85, 0.85, 0.85, 1.0],
+    "light_energy": 800,
+    "light_color": [1.0, 1.0, 1.0],
+    "light_temperature": 5500,
+    "sofa_position": [-2.0, -1.5, 0.3],
+    "lamp_position": [2.0, 1.5, 0.0],
+    "lamp_enabled": true
+  },
+  
+  "cozy": {
+    "name": "Cozy Style",
+    "description": "Przytulne wnętrze z ciepłymi kolorami i miękkim oświetleniem",
+    "wall_color": [0.82, 0.71, 0.55, 1.0],
+    "floor_color": [0.6, 0.4, 0.2, 1.0],
+    "sofa_color": [0.65, 0.45, 0.25, 1.0],
+    "carpet_color": [0.75, 0.5, 0.3, 1.0],
+    "zaslona_color": [0.85, 0.7, 0.5, 1.0],
+    "floorplates_color": [0.55, 0.38, 0.22, 1.0],
+    "floorunder_color": [0.5, 0.35, 0.2, 1.0],
+    "light_energy": 500,
+    "light_color": [1.0, 0.8, 0.5],
+    "light_temperature": 3000,
+    "sofa_position": [-2.0, -1.5, 0.3],
+    "lamp_position": [2.0, 1.5, 0.0],
+    "lamp_enabled": true
+  },
+  
+  "futuristic": {
+    "name": "Futuristic Style",
+    "description": "Nowoczesny, futurystyczny design z chłodnymi kolorami i mocnymi kontrastami",
+    "wall_color": [0.2, 0.25, 0.35, 1.0],
+    "floor_color": [0.15, 0.15, 0.2, 1.0],
+    "sofa_color": [0.3, 0.35, 0.45, 1.0],
+    "carpet_color": [0.25, 0.3, 0.4, 1.0],
+    "zaslona_color": [0.35, 0.4, 0.5, 1.0],
+    "floorplates_color": [0.18, 0.18, 0.22, 1.0],
+    "floorunder_color": [0.12, 0.12, 0.18, 1.0],
+    "light_energy": 1200,
+    "light_color": [0.6, 0.8, 1.0],
+    "light_temperature": 7000,
+    "sofa_position": [-2.0, -1.5, 0.3],
+    "lamp_position": [2.0, 1.5, 0.0],
+    "lamp_enabled": true
+  },
+  
+  "industrial": {
+    "name": "Industrial Style",
+    "description": "Surowy, industrialny styl z betonem i metalem",
+    "wall_color": [0.4, 0.4, 0.4, 1.0],
+    "floor_color": [0.3, 0.3, 0.3, 1.0],
+    "sofa_color": [0.2, 0.2, 0.2, 1.0],
+    "carpet_color": [0.35, 0.35, 0.35, 1.0],
+    "zaslona_color": [0.45, 0.45, 0.45, 1.0],
+    "floorplates_color": [0.32, 0.32, 0.32, 1.0],
+    "floorunder_color": [0.28, 0.28, 0.28, 1.0],
+    "light_energy": 900,
+    "light_color": [1.0, 0.95, 0.85],
+    "light_temperature": 4500,
+    "sofa_position": [-2.5, -1.0, 0.3],
+    "lamp_position": [2.5, 1.0, 0.0],
+    "lamp_enabled": true
+  },
+  
+  "scandinavian": {
+    "name": "Scandinavian Style",
+    "description": "Skandynawski minimalizm z naturalnymi materiałami",
+    "wall_color": [0.95, 0.95, 0.93, 1.0],
+    "floor_color": [0.85, 0.75, 0.6, 1.0],
+    "sofa_color": [0.9, 0.88, 0.85, 1.0],
+    "carpet_color": [0.88, 0.8, 0.7, 1.0],
+    "zaslona_color": [0.92, 0.9, 0.88, 1.0],
+    "floorplates_color": [0.8, 0.72, 0.58, 1.0],
+    "floorunder_color": [0.75, 0.68, 0.55, 1.0],
+    "light_energy": 700,
+    "light_color": [1.0, 0.98, 0.95],
+    "light_temperature": 5000,
+    "sofa_position": [-2.0, -1.8, 0.3],
+    "lamp_position": [1.8, 1.8, 0.0],
+    "lamp_enabled": true
+  },
+  
+  "layout_a": {
+    "name": "Layout A - Classic",
+    "description": "Klasyczny układ z sofą przy ścianie",
+    "sofa_position": [-2.0, -1.5, 0.3],
+    "table_position": [0.5, 0.0, 0.5],
+    "lamp_position": [2.0, 1.5, 0.0]
+  },
+  
+  "layout_b": {
+    "name": "Layout B - Open",
+    "description": "Otwarty układ centralny",
+    "sofa_position": [-1.5, -1.0, 0.3],
+    "table_position": [1.0, 0.5, 0.5],
+    "lamp_position": [1.5, 2.0, 0.0]
+  },
+  
+  "layout_c": {
+    "name": "Layout C - Corner",
+    "description": "Układ narożny",
+    "sofa_position": [-2.5, -2.0, 0.3],
+    "table_position": [-0.5, -0.5, 0.5],
+    "lamp_position": [2.5, 1.0, 0.0]
+  }
+}
