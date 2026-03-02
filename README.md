@@ -3,7 +3,7 @@
 
 **Autor:** Tsimur Kisel  
 **Data:** Luty 2026  
-**Przedmioty:** Modelowanie 3D + Sztuczna Inteligencja  
+**Przedmioty:** Inżynieria immersyjna – poza horyzont + Artificial Intelligence Neural Networks – LLM and Generative AI
 **Repozytorium:** [GitHub - Model-AI](https://github.com/timmmut/Model-AI)
 
 ---
