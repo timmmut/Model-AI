@@ -4,7 +4,7 @@
 **Autor:** Tsimur Kisel  
 **Data:** Luty 2026  
 **Przedmioty:** Modelowanie 3D + Sztuczna Inteligencja  
-**Repozytorium:** [GitHub - AI-Interior-Design-Configurator](https://github.com/username/AI-Interior-Design-Configurator)
+**Repozytorium:** [GitHub - Model-AI](https://github.com/timmmut/Model-AI)
 
 ---
 ### Jak uruchomić (krok po kroku)
