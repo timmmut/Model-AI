@@ -689,7 +689,9 @@ oraz z danymi zapisanymi w pliku `designs.json`.
    - [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
    - [Learn Prompting](https://learnprompting.org/)
    - Czas nauki: ~3 godziny
-
+5. **Blender Tutorial**
+   -https://youtu.be/id0CIaa5pFQ?is=IEdl6VrC2fDAjYND/
+   
 
 ### Społeczności
 
